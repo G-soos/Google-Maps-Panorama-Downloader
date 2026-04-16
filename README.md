@@ -1,4 +1,13 @@
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=🍺&slug=Gsoos&button_color=FFDD00&font_color=000000&font_family=Cookie&outline_color=000000&coffee_color=ffffff)](https://buymeacoffee.com/gsoos)
+<!-- Buy Me a Beer -->
+  <a href="https://www.buymeacoffee.com/Gsoos">
+    <img 
+      src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=%F0%9F%8D%BA&slug=Gsoos&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" 
+      height="50"
+    />
+  </a>
+  
+
+---
 # 📸 360 Extractor by Gsoos
 
 **A powerful, high-resolution panorama downloader for Google Maps Street View.** Build with Python and a modern dark UI, this tool allows you to capture the world in **2K, 4K, and 8K**.
