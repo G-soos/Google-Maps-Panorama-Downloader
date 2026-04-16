@@ -1,4 +1,7 @@
 # 📸 360 Extractor by Gsoos
+<p align="center">
+  <img src="preview.png" alt="App Preview" width="200">
+</p>
 
 **A powerful, high-resolution panorama downloader for Google Maps Street View.** Build with Python and a modern dark UI, this tool allows you to capture the world in **2K, 4K, and 8K**.
 
