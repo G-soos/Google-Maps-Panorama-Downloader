@@ -6,7 +6,7 @@
 
 ## 📥 Quick Download
 Don't want to run the code? Get the standalone Windows version here:  
-👉 **[Download Latest .exe Release](https://github.com/G-soos/YOUR_REPO_NAME/releases)**
+👉 **[Download Latest .exe Release]([https://github.com/G-soos/YOUR_REPO_NAME/releases](https://github.com/G-soos/Google-Maps-Panorama-Downloader/releases/tag/v1.0.0))**
 
 ---
 
