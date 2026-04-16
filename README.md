@@ -1,16 +1,27 @@
-<!-- Buy Me a Beer -->
+# 📸 360 Extractor by Gsoos
+
+**A powerful, high-resolution panorama downloader for Google Maps Street View.** Build with Python and a modern dark UI, this tool allows you to capture the world in **2K, 4K, and 8K**.
+
+If you like this and want to see development continue consider to
+
+ <!-- Buy Me a Beer -->
   <a href="https://www.buymeacoffee.com/Gsoos">
     <img 
       src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=%F0%9F%8D%BA&slug=Gsoos&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" 
       height="50"
     />
   </a>
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- PayPal Donate -->
+  <a href="https://www.paypal.com/donate/?hosted_button_id=MKU4HJ2MHUNGJ">
+    <img 
+      src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" 
+      height="50"
+    />
+  </a>
 
----
-# 📸 360 Extractor by Gsoos
 
-**A powerful, high-resolution panorama downloader for Google Maps Street View.** Build with Python and a modern dark UI, this tool allows you to capture the world in **2K, 4K, and 8K**.
+
 
 ---
 
